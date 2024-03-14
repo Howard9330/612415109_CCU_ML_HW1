@@ -184,7 +184,7 @@ def main():
       print(f'Avg valid Loss: {loss}, Avg valid acc: {acc}')
 
     Plot("Loss Curve", 'Loss', epoch_list, train_loss, valid_loss)
-    Plot("Accuarcy Curve", 'Acc', epoch_list, train_acc, valid_acc)
+    Plot("Accuracy Curve", 'Acc', epoch_list, train_acc, valid_acc)
 
     preds = predict(test_set, model)
     view_pred_result(test_set, preds)
