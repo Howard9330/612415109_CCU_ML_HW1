@@ -1,10 +1,10 @@
 # 612415109_CCU_ML_HW1
 
 ## 1. Loss Curve
-![loss](PIC/Loss Curve.png)
+![loss](PIC/Loss_Curve.png)
 
 ## 2. Acc Curve
-![loss](PIC/Accuracy Curve.png)
+![loss](PIC/Accuracy_Curve.png)
 
 ## 3. Predict Result
 ![loss](PIC/pred.png)
